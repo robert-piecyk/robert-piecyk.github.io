@@ -29,12 +29,12 @@ author:
   location         : "Munich, Germany"
   employer         : "LMU Klinikum"
   uri              : # URL
-  email            : "robert.s.piecyk@gmail.com" 
+  email            : "robert.s.piecyk@gmail.com" z
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=v8gjQjUAAAAJ&hl"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-1912-4487"
